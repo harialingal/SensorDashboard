@@ -1,5 +1,7 @@
 # 📡 SensorDashboard
 
+> 🤖 **This project was built entirely with AI using [Antigravity](https://antigravity.dev) — from code generation to deployment — without writing a single line of code manually.**
+
 A beautiful Android app that displays all device sensor data in a real-time dashboard, built entirely with **Jetpack Compose** and **Kotlin**.
 
 ## ✨ Features
@@ -70,6 +72,10 @@ app/src/main/java/com/example/sensordashboard/
 ## 📱 Screenshots
 
 *App running on a physical Android device, showing live accelerometer, gyroscope, magnetometer, and 20+ other sensors.*
+
+## 🤖 Built with AI
+
+This entire project — including architecture design, Kotlin/Compose code, bug fixes, and GitHub deployment — was created using **[Antigravity](https://antigravity.dev)**, an AI-powered coding agent by Google DeepMind. No code was written manually.
 
 ## 📄 License
 
